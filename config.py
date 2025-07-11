@@ -1,0 +1,3 @@
+# config.py
+TELEGRAM_BOT_TOKEN = "7950028591:AAG-VMZ4OlJSBw13DyE4eoV9FdOgW8IASuc"
+DATABASE_URL = "sqlite:///support_bot.db"
